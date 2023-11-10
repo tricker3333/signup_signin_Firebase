@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "692548939148",
+    "project_id": "sloginf-66d09",
+    "storage_bucket": "sloginf-66d09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692548939148:android:a0f807726724dd90447aa9",
+        "android_client_info": {
+          "package_name": "com.example.simple_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8amjPbd3sylW-GFwH0hYQCMlnPz4bmWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
